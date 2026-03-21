@@ -507,4 +507,22 @@ main{
             }
         }
     }
+    .section3{
+        .container{
+            .section3-complety{
+                display: flex;
+                align-items: center;
+                gap: 35px;
+                margin-top: 90px;
+                .dastur{
+                    width: 50%;
+                }
+                .project{
+                    h2{
+                        
+                    }
+                }
+            }
+        }
+    }
 }

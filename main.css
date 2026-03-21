@@ -463,4 +463,13 @@ main .section2 .container .section2-container .kardlar .kard3 .lorem {
 main .section2 .container .section2-container .kardlar .kard3 .lorem .setrelka3 {
   padding-right: 160px;
   margin-top: -24px;
+}
+main .section3 .container .section3-complety {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  margin-top: 90px;
+}
+main .section3 .container .section3-complety .dastur {
+  width: 50%;
 }/*# sourceMappingURL=main.css.map */
