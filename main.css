@@ -11,7 +11,7 @@
 }
 
 body {
-  background: rgb(1, 1, 30);
+  background: rgb(5, 5, 51);
 }
 
 header {
@@ -551,4 +551,44 @@ main .section4 .container .section4-container .project2 button:hover {
 }
 main .section4 .container .section4-container img {
   width: 50%;
+}
+main .section5 .container .section5-container {
+  margin-bottom: 120px;
+}
+main .section5 .container .section5-container h4 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-bottom: 30px;
+  color: #FFFFFF;
+  text-align: center;
+}
+main .section5 .container .section5-container .dolor {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  width: 460px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+main .section5 .container .section5-container .rezume {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+main .section5 .container .section5-container .rezume .sunny {
+  width: 250px;
+  height: 260px;
+  border: 1px solid slategrey;
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  border-radius: 34px;
+  background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+}
+main .section5 .container .section5-container .rezume .sunny img {
+  margin-top: 32px;
+  margin-left: 55px;
 }/*# sourceMappingURL=main.css.map */
