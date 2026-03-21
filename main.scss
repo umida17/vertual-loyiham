@@ -76,6 +76,7 @@ main{
                 align-items: center;
               justify-content: space-between;
               margin-top: 50px;
+              margin-bottom: 61px;
               .reality{
                 h1{
                      font-weight: 700;
@@ -146,7 +147,11 @@ main{
                     }
                 }
               }
+              img{
+                width: 53%;
+              }
             }
         }
     }
+    
 }

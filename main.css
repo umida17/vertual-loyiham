@@ -71,6 +71,7 @@ main .section1 .container .section1_vertual {
   align-items: center;
   justify-content: space-between;
   margin-top: 50px;
+  margin-bottom: 61px;
 }
 main .section1 .container .section1_vertual .reality h1 {
   font-weight: 700;
@@ -138,4 +139,7 @@ main .section1 .container .section1_vertual .reality .Join-Us .watch:hover {
   border-radius: 5px;
   width: 140px;
   height: 51px;
+}
+main .section1 .container .section1_vertual img {
+  width: 53%;
 }/*# sourceMappingURL=main.css.map */
