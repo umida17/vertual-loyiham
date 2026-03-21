@@ -167,11 +167,11 @@ main .section2 .container .section2-container .into {
 main .section2 .container .section2-container .cards {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 20px;
   margin-bottom: 40px;
 }
 main .section2 .container .section2-container .cards .card {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -225,11 +225,11 @@ main .section2 .container .section2-container .cards .card .lorem .more {
   text-align: center;
 }
 main .section2 .container .section2-container .cards .card .lorem .strelka {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section2 .container .section2-container .cards .card2 {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -268,11 +268,11 @@ main .section2 .container .section2-container .cards .card2 .lorem {
   margin-left: 50px;
 }
 main .section2 .container .section2-container .cards .card2 .lorem .setrelka2 {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section2 .container .section2-container .cards .card3 {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -311,17 +311,17 @@ main .section2 .container .section2-container .cards .card3 .lorem {
   margin-left: 50px;
 }
 main .section2 .container .section2-container .cards .card3 .lorem .setrelka3 {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section2 .container .section2-container .kardlar {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 20px;
   margin-bottom: 40px;
 }
 main .section2 .container .section2-container .kardlar .kard {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -375,11 +375,11 @@ main .section2 .container .section2-container .kardlar .kard .lorem .more {
   text-align: center;
 }
 main .section2 .container .section2-container .kardlar .kard .lorem .strelka {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section2 .container .section2-container .kardlar .kard2 {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -418,11 +418,11 @@ main .section2 .container .section2-container .kardlar .kard2 .lorem {
   margin-left: 50px;
 }
 main .section2 .container .section2-container .kardlar .kard2 .lorem .setrelka2 {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section2 .container .section2-container .kardlar .kard3 {
-  width: 370px;
+  width: 350px;
   height: 336px;
   border-radius: 34px;
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
@@ -461,13 +461,12 @@ main .section2 .container .section2-container .kardlar .kard3 .lorem {
   margin-left: 50px;
 }
 main .section2 .container .section2-container .kardlar .kard3 .lorem .setrelka3 {
-  padding-right: 160px;
+  padding-right: 140px;
   margin-top: -24px;
 }
 main .section3 .container .section3-complety {
   display: flex;
   align-items: center;
-  gap: 35px;
   margin-top: 90px;
   margin-bottom: 57px;
 }
@@ -508,4 +507,48 @@ main .section3 .container .section3-complety .project button:hover {
   background: none;
   border: 1px solid #2563EB;
   border-radius: 4px;
+}
+main .section4 .container .section4-container {
+  display: flex;
+  align-items: center;
+  margin-top: 90px;
+  margin-bottom: 107px;
+}
+main .section4 .container .section4-container .project2 h2 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  width: 570px;
+  margin-bottom: 30px;
+}
+main .section4 .container .section4-container .project2 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+  width: 570px;
+}
+main .section4 .container .section4-container .project2 button {
+  width: 100px;
+  height: 30px;
+  background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+  color: white;
+  border-radius: 4px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  border: none;
+}
+main .section4 .container .section4-container .project2 button:hover {
+  background: none;
+  border: 1px solid #2563EB;
+  border-radius: 4px;
+}
+main .section4 .container .section4-container img {
+  width: 50%;
 }/*# sourceMappingURL=main.css.map */
