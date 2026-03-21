@@ -177,6 +177,7 @@ main .section2 .container .section2-container .cards .card {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .cards .card .doira {
   position: relative;
@@ -192,7 +193,7 @@ main .section2 .container .section2-container .cards .card .doira .dumaloq {
 }
 main .section2 .container .section2-container .cards .card .doira .png {
   position: absolute;
-  margin-left: 165px;
+  margin-left: 155px;
   margin-top: -54px;
 }
 main .section2 .container .section2-container .cards .card h3 {
@@ -228,6 +229,9 @@ main .section2 .container .section2-container .cards .card .lorem .strelka {
   padding-right: 140px;
   margin-top: -24px;
 }
+main .section2 .container .section2-container .cards .card:hover {
+  transform: scaleY(1.1);
+}
 main .section2 .container .section2-container .cards .card2 {
   width: 350px;
   height: 336px;
@@ -235,6 +239,7 @@ main .section2 .container .section2-container .cards .card2 {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .cards .card2 .icon2 {
   margin-top: 34px;
@@ -271,6 +276,9 @@ main .section2 .container .section2-container .cards .card2 .lorem .setrelka2 {
   padding-right: 140px;
   margin-top: -24px;
 }
+main .section2 .container .section2-container .cards .card2:hover {
+  transform: scaleY(1.1);
+}
 main .section2 .container .section2-container .cards .card3 {
   width: 350px;
   height: 336px;
@@ -278,6 +286,7 @@ main .section2 .container .section2-container .cards .card3 {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .cards .card3 .icon3 {
   margin-top: 34px;
@@ -314,6 +323,9 @@ main .section2 .container .section2-container .cards .card3 .lorem .setrelka3 {
   padding-right: 140px;
   margin-top: -24px;
 }
+main .section2 .container .section2-container .cards .card3:hover {
+  transform: scaleY(1.1);
+}
 main .section2 .container .section2-container .kardlar {
   display: flex;
   align-items: center;
@@ -327,6 +339,7 @@ main .section2 .container .section2-container .kardlar .kard {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .kardlar .kard .doira {
   position: relative;
@@ -378,6 +391,9 @@ main .section2 .container .section2-container .kardlar .kard .lorem .strelka {
   padding-right: 140px;
   margin-top: -24px;
 }
+main .section2 .container .section2-container .kardlar .kard:hover {
+  transform: scaleY(1.1);
+}
 main .section2 .container .section2-container .kardlar .kard2 {
   width: 350px;
   height: 336px;
@@ -385,6 +401,7 @@ main .section2 .container .section2-container .kardlar .kard2 {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .kardlar .kard2 .icon2 {
   margin-top: 34px;
@@ -421,6 +438,9 @@ main .section2 .container .section2-container .kardlar .kard2 .lorem .setrelka2 
   padding-right: 140px;
   margin-top: -24px;
 }
+main .section2 .container .section2-container .kardlar .kard2:hover {
+  transform: scaleY(1.1);
+}
 main .section2 .container .section2-container .kardlar .kard3 {
   width: 350px;
   height: 336px;
@@ -428,6 +448,7 @@ main .section2 .container .section2-container .kardlar .kard3 {
   border: 1px solid rgba(254, 254, 255, 0.1607843137);
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   background: rgb(7, 23, 27);
+  transition: 0.7s ease-in-out;
 }
 main .section2 .container .section2-container .kardlar .kard3 .icon3 {
   margin-top: 34px;
@@ -463,6 +484,9 @@ main .section2 .container .section2-container .kardlar .kard3 .lorem {
 main .section2 .container .section2-container .kardlar .kard3 .lorem .setrelka3 {
   padding-right: 140px;
   margin-top: -24px;
+}
+main .section2 .container .section2-container .kardlar .kard3:hover {
+  transform: scaleY(1.1);
 }
 main .section3 .container .section3-complety {
   display: flex;
@@ -587,6 +611,7 @@ main .section5 .container .section5-container .rezume .sunny {
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   border-radius: 34px;
   background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+  transition: 0.8s ease-in-out;
 }
 main .section5 .container .section5-container .rezume .sunny .rec {
   margin-top: 34px;
@@ -617,6 +642,9 @@ main .section5 .container .section5-container .rezume .sunny .iconka {
   justify-content: center;
   gap: 10px;
 }
+main .section5 .container .section5-container .rezume .sunny:hover {
+  transform: scale(0.8);
+}
 main .section5 .container .section5-container .rezume .Alina {
   width: 250px;
   height: 260px;
@@ -624,6 +652,7 @@ main .section5 .container .section5-container .rezume .Alina {
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   border-radius: 34px;
   background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+  transition: 0.8s ease-in-out;
 }
 main .section5 .container .section5-container .rezume .Alina .ali {
   margin-top: 34px;
@@ -654,6 +683,9 @@ main .section5 .container .section5-container .rezume .Alina .iconka {
   justify-content: center;
   gap: 10px;
 }
+main .section5 .container .section5-container .rezume .Alina:hover {
+  transform: scale(0.8);
+}
 main .section5 .container .section5-container .rezume .Alex {
   width: 250px;
   height: 260px;
@@ -661,6 +693,7 @@ main .section5 .container .section5-container .rezume .Alex {
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   border-radius: 34px;
   background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+  transition: 0.8s ease-in-out;
 }
 main .section5 .container .section5-container .rezume .Alex .ale {
   margin-top: 34px;
@@ -691,6 +724,9 @@ main .section5 .container .section5-container .rezume .Alex .iconka {
   justify-content: center;
   gap: 10px;
 }
+main .section5 .container .section5-container .rezume .Alex:hover {
+  transform: scale(0.8);
+}
 main .section5 .container .section5-container .rezume .Afroza {
   width: 250px;
   height: 260px;
@@ -698,6 +734,7 @@ main .section5 .container .section5-container .rezume .Afroza {
   box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
   border-radius: 34px;
   background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+  transition: 0.8s ease-in-out;
 }
 main .section5 .container .section5-container .rezume .Afroza .roza {
   margin-top: 34px;
@@ -727,4 +764,668 @@ main .section5 .container .section5-container .rezume .Afroza .iconka {
   align-items: center;
   justify-content: center;
   gap: 10px;
+}
+main .section5 .container .section5-container .rezume .Afroza:hover {
+  transform: scale(0.8);
+}
+main .section6 .container .section6-container {
+  box-shadow: 0px 22px 18px 0px rgba(96, 95, 95, 0.0509803922);
+  border: 1px solid rgb(94, 94, 94);
+  background: linear-gradient(180deg, rgba(254, 254, 255, 0.0145) 0%, rgba(255, 255, 255, 0.02) 100%);
+  border-radius: 34px;
+  height: 295px;
+  margin-bottom: 98px;
+}
+main .section6 .container .section6-container h4 {
+  font-weight: 700;
+  padding-top: 54px;
+  font-size: 42px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 15px;
+}
+main .section6 .container .section6-container p {
+  margin-bottom: 29px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+}
+main .section6 .container .section6-container form {
+  width: 850px;
+  height: 80px;
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.0705882353);
+  border-radius: 70px;
+  background: linear-gradient(180deg, rgba(254, 254, 255, 0.0348) 0%, rgba(255, 255, 255, 0.048) 100%);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .section6 .container .section6-container form input {
+  background: none;
+  border: none;
+  margin-left: 44px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+}
+main .section6 .container .section6-container form button {
+  margin-right: 15px;
+  width: 196px;
+  height: 60px;
+  border-radius: 70px;
+  opacity: 90%;
+  background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: white;
+  border: none;
+}
+main .section6 .container .section6-container form button i {
+  margin-right: 10px;
+}
+main .section6 .container .section6-container form button:hover {
+  background: none;
+  border-radius: 70px;
+  border: 2px solid #6546ef;
+}
+
+footer .container .finish {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  margin-bottom: 35px;
+}
+footer .container .finish .logo img {
+  margin-bottom: 15px;
+}
+footer .container .finish .logo .lacat {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 7px;
+}
+footer .container .finish .logo .lacat i {
+  color: white;
+}
+footer .container .finish .logo .lacat p {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+}
+footer .container .finish .logo .lacat:hover i {
+  color: #402F8F;
+}
+footer .container .finish .logo .lacat:hover p {
+  color: #402F8F;
+}
+footer .container .finish .logo .number {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 7px;
+}
+footer .container .finish .logo .number i {
+  color: white;
+}
+footer .container .finish .logo .number p {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+}
+footer .container .finish .logo .number:hover i {
+  color: #402F8F;
+}
+footer .container .finish .logo .number:hover p {
+  color: #402F8F;
+}
+footer .container .finish .logo .email {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 7px;
+}
+footer .container .finish .logo .email i {
+  color: white;
+}
+footer .container .finish .logo .email p {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+}
+footer .container .finish .logo .email:hover i {
+  color: #402F8F;
+}
+footer .container .finish .logo .email:hover p {
+  color: #402F8F;
+}
+footer .container .finish .logo .aykinlar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  color: white;
+}
+footer .container .finish .logo .aykinlar:hover {
+  color: #D946EF;
+}
+footer .container .finish .servec {
+  width: 170px;
+}
+footer .container .finish .servec h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: white;
+}
+footer .container .finish .servec h2:hover {
+  color: #D946EF;
+}
+footer .container .finish .servec a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: #FFFFFF;
+  padding-top: 6px;
+}
+footer .container .finish .servec a:hover {
+  color: #2563EB;
+}
+footer .container .finish .Company {
+  width: 167px;
+}
+footer .container .finish .Company h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: white;
+}
+footer .container .finish .Company h2:hover {
+  color: #D946EF;
+}
+footer .container .finish .Company a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: #FFFFFF;
+  padding-top: 6px;
+}
+footer .container .finish .Company a:hover {
+  color: #2563EB;
+}
+footer .container .finish .Supports {
+  width: 136px;
+}
+footer .container .finish .Supports h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: white;
+}
+footer .container .finish .Supports h2:hover {
+  color: #D946EF;
+}
+footer .container .finish .Supports a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: #FFFFFF;
+  padding-top: 6px;
+}
+footer .container .finish .Supports a:hover {
+  color: #2563EB;
+}
+footer .container .finish .Resources {
+  width: 122px;
+}
+footer .container .finish .Resources h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: white;
+}
+footer .container .finish .Resources h2:hover {
+  color: #D946EF;
+}
+footer .container .finish .Resources a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  color: #FFFFFF;
+  padding-top: 6px;
+}
+footer .container .finish .Resources a:hover {
+  color: #2563EB;
+}
+footer .container .all {
+  border-top: 2px solid rgb(73, 73, 73);
+  padding-top: 30px;
+  margin-bottom: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+footer .container .all p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+}
+footer .container .all p:hover {
+  color: #402F8F;
+}
+footer .container .all .pricy {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+footer .container .all .pricy a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+}
+footer .container .all .pricy a:hover {
+  color: rgb(138, 134, 134);
+}
+
+@media (max-width: 960px) {
+  main .section1 .container .section1_vertual {
+    flex-wrap: wrap;
+    margin-top: 150px;
+  }
+  main .section2 .container .section2-container .cards {
+    flex-wrap: wrap;
+  }
+  main .section2 .container .section2-container .kardlar {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .section3-complety {
+    flex-direction: column;
+  }
+  main .section4 .container .section4-container {
+    flex-direction: column;
+  }
+  main .section5 .container .section5-container .rezume {
+    flex-wrap: wrap;
+  }
+  main .section6 .container .section6-container form {
+    width: 550px;
+  }
+  footer .container .finish {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 740px) {
+  header .container .header-container ul {
+    display: flex;
+    gap: 30px;
+  }
+  main .section1 .container .section1_vertual {
+    flex-wrap: wrap;
+    margin-top: 150px;
+  }
+  main .section2 .container .section2-container .cards {
+    flex-wrap: wrap;
+  }
+  main .section2 .container .section2-container .kardlar {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .section3-complety {
+    flex-direction: column;
+  }
+  main .section4 .container .section4-container {
+    flex-direction: column;
+  }
+  main .section5 .container .section5-container .rezume {
+    flex-wrap: wrap;
+  }
+  main .section6 .container .section6-container h4 {
+    font-size: 25px;
+  }
+  main .section6 .container .section6-container p {
+    font-size: 12px;
+  }
+  main .section6 .container .section6-container form {
+    width: 550px;
+  }
+  footer .container .finish {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 630px) {
+  header .container .header-container ul {
+    display: flex;
+    gap: 20px;
+  }
+  header .container .header-container ul button {
+    width: 100px;
+    height: 30px;
+  }
+  main .section1 .container .section1_vertual {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+  }
+  main .section1 .container .section1_vertual .reality h1 {
+    font-size: 35px;
+    width: 350px;
+    line-height: 40px;
+  }
+  main .section1 .container .section1_vertual .reality p {
+    width: 300px;
+  }
+  main .section2 .container .section2-container h2 {
+    font-size: 25px;
+  }
+  main .section2 .container .section2-container .into {
+    width: 350px;
+    font-size: 12px;
+  }
+  main .section2 .container .section2-container .cards {
+    flex-wrap: wrap;
+  }
+  main .section2 .container .section2-container .kardlar {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .section3-complety {
+    flex-direction: column;
+  }
+  main .section3 .container .section3-complety .project h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  main .section3 .container .section3-complety .project p {
+    width: 380px;
+    font-size: 12px;
+  }
+  main .section4 .container .section4-container {
+    flex-direction: column;
+  }
+  main .section4 .container .section4-container .project2 h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  main .section4 .container .section4-container .project2 p {
+    width: 380px;
+    font-size: 12px;
+  }
+  main .section5 .container .section5-container .rezume {
+    flex-wrap: wrap;
+  }
+  main .section6 .container .section6-container h4 {
+    margin-top: -20px;
+    font-size: 25px;
+  }
+  main .section6 .container .section6-container p {
+    font-size: 10px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  main .section6 .container .section6-container form {
+    width: 500px;
+  }
+  main .section6 .container .section6-container form button i {
+    width: 20px;
+  }
+  main .section6 .container .section6-container form button {
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+  }
+  footer .container .finish {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 550px) {
+  header .container .header-container {
+    display: flex;
+    gap: 11px;
+  }
+  header .container .header-container ul {
+    display: flex;
+    gap: 10px;
+  }
+  header .container .header-container ul button {
+    width: 80px;
+    height: 30px;
+    font-size: 8px;
+  }
+  main .section1 .container .section1_vertual {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+  }
+  main .section1 .container .section1_vertual .reality h1 {
+    font-size: 35px;
+    width: 350px;
+    line-height: 40px;
+  }
+  main .section1 .container .section1_vertual .reality p {
+    width: 300px;
+  }
+  main .section2 .container .section2-container h2 {
+    font-size: 25px;
+  }
+  main .section2 .container .section2-container .into {
+    width: 350px;
+    font-size: 12px;
+  }
+  main .section2 .container .section2-container .cards {
+    flex-wrap: wrap;
+  }
+  main .section2 .container .section2-container .kardlar {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .section3-complety {
+    flex-direction: column;
+  }
+  main .section3 .container .section3-complety .project h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  main .section3 .container .section3-complety .project p {
+    width: 380px;
+    font-size: 12px;
+  }
+  main .section4 .container .section4-container {
+    flex-direction: column;
+  }
+  main .section4 .container .section4-container .project2 h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  main .section4 .container .section4-container .project2 p {
+    width: 380px;
+    font-size: 12px;
+  }
+  main .section5 .container .section5-container .rezume {
+    flex-wrap: wrap;
+  }
+  main .section6 .container .section6-container h4 {
+    margin-top: -20px;
+    font-size: 25px;
+  }
+  main .section6 .container .section6-container p {
+    font-size: 10px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  main .section6 .container .section6-container form {
+    width: 380px;
+  }
+  main .section6 .container .section6-container form input {
+    font-size: 10px;
+    padding-left: -30px;
+  }
+  main .section6 .container .section6-container form button i {
+    width: 20px;
+  }
+  main .section6 .container .section6-container form button {
+    width: 120px;
+    height: 40px;
+    font-size: 10px;
+  }
+  footer .container .finish {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 440px) {
+  header .container .header-container {
+    display: flex;
+    gap: 10px;
+  }
+  header .container .header-container ul {
+    display: flex;
+    gap: 8px;
+  }
+  header .container .header-container ul a {
+    font-size: 8px;
+  }
+  header .container .header-container ul button {
+    width: 70px;
+    height: 30px;
+    font-size: 8px;
+  }
+  main .section1 .container .section1_vertual {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+  }
+  main .section1 .container .section1_vertual .reality h1 {
+    font-size: 35px;
+    width: 350px;
+    line-height: 40px;
+  }
+  main .section1 .container .section1_vertual .reality p {
+    width: 300px;
+  }
+  main .section2 .container .section2-container h2 {
+    font-size: 25px;
+  }
+  main .section2 .container .section2-container .into {
+    width: 350px;
+    font-size: 12px;
+  }
+  main .section2 .container .section2-container .cards {
+    flex-wrap: wrap;
+  }
+  main .section2 .container .section2-container .kardlar {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .section3-complety {
+    flex-direction: column;
+  }
+  main .section3 .container .section3-complety .project h2 {
+    width: 320px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 20px;
+  }
+  main .section3 .container .section3-complety .project p {
+    width: 320px;
+    font-size: 10px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  main .section4 .container .section4-container {
+    flex-direction: column;
+  }
+  main .section4 .container .section4-container .project2 h2 {
+    width: 320px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  main .section4 .container .section4-container .project2 p {
+    width: 320px;
+    font-size: 10px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  main .section5 .container .section5-container h4 {
+    font-size: 20px;
+  }
+  main .section5 .container .section5-container .dolor {
+    width: 350px;
+    font-size: 12px;
+  }
+  main .section5 .container .section5-container .rezume {
+    flex-wrap: wrap;
+  }
+  main .section6 .container .section6-container h4 {
+    margin-top: -20px;
+    font-size: 20px;
+  }
+  main .section6 .container .section6-container p {
+    font-size: 10px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  main .section6 .container .section6-container form {
+    width: 340px;
+    height: 60px;
+  }
+  main .section6 .container .section6-container form input {
+    font-size: 10px;
+    padding-left: -30px;
+  }
+  main .section6 .container .section6-container form button i {
+    width: 20px;
+  }
+  main .section6 .container .section6-container form button {
+    width: 100px;
+    height: 30px;
+    font-size: 10px;
+  }
+  footer .container .finish {
+    flex-wrap: wrap;
+  }
 }/*# sourceMappingURL=main.css.map */
