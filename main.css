@@ -22,6 +22,7 @@ header {
   box-shadow: 10px 10px 10px rgb(27, 33, 34);
   z-index: 999999;
   height: 95px;
+  background: rgb(1, 1, 30);
 }
 header .container .header-container {
   display: flex;
@@ -191,7 +192,7 @@ main .section2 .container .section2-container .cards .card .doira .dumaloq {
 }
 main .section2 .container .section2-container .cards .card .doira .png {
   position: absolute;
-  margin-left: 160px;
+  margin-left: 165px;
   margin-top: -54px;
 }
 main .section2 .container .section2-container .cards .card h3 {
@@ -224,6 +225,242 @@ main .section2 .container .section2-container .cards .card .lorem .more {
   text-align: center;
 }
 main .section2 .container .section2-container .cards .card .lorem .strelka {
+  padding-right: 160px;
+  margin-top: -24px;
+}
+main .section2 .container .section2-container .cards .card2 {
+  width: 370px;
+  height: 336px;
+  border-radius: 34px;
+  border: 1px solid rgba(254, 254, 255, 0.1607843137);
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  background: rgb(7, 23, 27);
+}
+main .section2 .container .section2-container .cards .card2 .icon2 {
+  margin-top: 34px;
+  margin-left: 150px;
+  margin-bottom: 19px;
+}
+main .section2 .container .section2-container .cards .card2 h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 17px;
+}
+main .section2 .container .section2-container .cards .card2 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  width: 325px;
+  margin: 0 auto;
+  padding-left: 23px;
+  padding-right: 23px;
+  color: white;
+  margin-bottom: 24px;
+}
+main .section2 .container .section2-container .cards .card2 .lorem {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+main .section2 .container .section2-container .cards .card2 .lorem .setrelka2 {
+  padding-right: 160px;
+  margin-top: -24px;
+}
+main .section2 .container .section2-container .cards .card3 {
+  width: 370px;
+  height: 336px;
+  border-radius: 34px;
+  border: 1px solid rgba(254, 254, 255, 0.1607843137);
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  background: rgb(7, 23, 27);
+}
+main .section2 .container .section2-container .cards .card3 .icon3 {
+  margin-top: 34px;
+  margin-left: 150px;
+  margin-bottom: 19px;
+}
+main .section2 .container .section2-container .cards .card3 h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 17px;
+}
+main .section2 .container .section2-container .cards .card3 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  width: 325px;
+  margin: 0 auto;
+  padding-left: 23px;
+  padding-right: 23px;
+  color: white;
+  margin-bottom: 24px;
+}
+main .section2 .container .section2-container .cards .card3 .lorem {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+main .section2 .container .section2-container .cards .card3 .lorem .setrelka3 {
+  padding-right: 160px;
+  margin-top: -24px;
+}
+main .section2 .container .section2-container .kardlar {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+main .section2 .container .section2-container .kardlar .kard {
+  width: 370px;
+  height: 336px;
+  border-radius: 34px;
+  border: 1px solid rgba(254, 254, 255, 0.1607843137);
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  background: rgb(7, 23, 27);
+}
+main .section2 .container .section2-container .kardlar .kard .doira {
+  position: relative;
+  margin-bottom: 19px;
+}
+main .section2 .container .section2-container .kardlar .kard .doira .dumaloq {
+  width: 74px;
+  height: 74px;
+  border-radius: 55px;
+  background: #45db95;
+  margin: 0 auto;
+  margin-top: 34px;
+}
+main .section2 .container .section2-container .kardlar .kard .doira .png {
+  position: absolute;
+  margin-left: 165px;
+  margin-top: -58px;
+}
+main .section2 .container .section2-container .kardlar .kard h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 17px;
+}
+main .section2 .container .section2-container .kardlar .kard p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  width: 325px;
+  margin: 0 auto;
+  padding-left: 23px;
+  padding-right: 23px;
+  color: white;
+  margin-bottom: 24px;
+}
+main .section2 .container .section2-container .kardlar .kard .lorem {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+main .section2 .container .section2-container .kardlar .kard .lorem .more {
+  text-align: center;
+}
+main .section2 .container .section2-container .kardlar .kard .lorem .strelka {
+  padding-right: 160px;
+  margin-top: -24px;
+}
+main .section2 .container .section2-container .kardlar .kard2 {
+  width: 370px;
+  height: 336px;
+  border-radius: 34px;
+  border: 1px solid rgba(254, 254, 255, 0.1607843137);
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  background: rgb(7, 23, 27);
+}
+main .section2 .container .section2-container .kardlar .kard2 .icon2 {
+  margin-top: 34px;
+  margin-left: 150px;
+  margin-bottom: 19px;
+}
+main .section2 .container .section2-container .kardlar .kard2 h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 17px;
+}
+main .section2 .container .section2-container .kardlar .kard2 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  width: 325px;
+  margin: 0 auto;
+  padding-left: 23px;
+  padding-right: 23px;
+  color: white;
+  margin-bottom: 24px;
+}
+main .section2 .container .section2-container .kardlar .kard2 .lorem {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+main .section2 .container .section2-container .kardlar .kard2 .lorem .setrelka2 {
+  padding-right: 160px;
+  margin-top: -24px;
+}
+main .section2 .container .section2-container .kardlar .kard3 {
+  width: 370px;
+  height: 336px;
+  border-radius: 34px;
+  border: 1px solid rgba(254, 254, 255, 0.1607843137);
+  box-shadow: 0px 22px 18px 0px rgba(0, 0, 0, 0.0509803922);
+  background: rgb(7, 23, 27);
+}
+main .section2 .container .section2-container .kardlar .kard3 .icon3 {
+  margin-top: 34px;
+  margin-left: 150px;
+  margin-bottom: 19px;
+}
+main .section2 .container .section2-container .kardlar .kard3 h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 17px;
+}
+main .section2 .container .section2-container .kardlar .kard3 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  width: 325px;
+  margin: 0 auto;
+  padding-left: 23px;
+  padding-right: 23px;
+  color: white;
+  margin-bottom: 24px;
+}
+main .section2 .container .section2-container .kardlar .kard3 .lorem {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+main .section2 .container .section2-container .kardlar .kard3 .lorem .setrelka3 {
   padding-right: 160px;
   margin-top: -24px;
 }/*# sourceMappingURL=main.css.map */
